@@ -1,4 +1,4 @@
-Test Automation using **Selenium**, **Maven**, and **Java Language** with **Page Factory Model** 
+Test Automation using **Selenium**, **Maven**, and **Java Language** with **Page Object Model** 
 ---
 ---
 Project Title: Test Search engin in (https://www.google.com)
