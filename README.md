@@ -1,3 +1,4 @@
-Test Automation using **Selenium**, **Maven**, and **Java Language** with **Page Object Model**
+Test Automation using **Selenium**, **Maven**, and **Java Language** with **Page Factory Model** 
 ---
 ---
+
