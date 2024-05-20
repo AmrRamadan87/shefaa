@@ -24,7 +24,7 @@ To run the test, you can navigate to the TestCases folder and choose either a sp
 Each class contain Test case End2End Scenario 
 
 
-## Authors
+## Author
 
 * **Amr Ramadan**
 
