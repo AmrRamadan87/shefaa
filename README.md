@@ -10,7 +10,7 @@ Features This small project will help Automation Testing Companies to test their
 **Verify the search in Google by implementing a maintainable and readable test script.**
 
 
-### coding style tests
+### Coding Style Tests
 
 The code is implemented using the Page Factory design pattern (preferred design).
 After cloning the project, update the dependencies for Selenium and TestNG.
