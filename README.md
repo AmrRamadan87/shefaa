@@ -14,3 +14,7 @@ In order to run the Test , you can go to TestCases folder and select or all to r
 Each class contain Test case End2End Scenario 
 
 
+## Authors
+
+* **Amr Ramadan**
+
